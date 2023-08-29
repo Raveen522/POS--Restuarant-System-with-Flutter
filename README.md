@@ -1,8 +1,6 @@
-# pos
+#Fully fucntional Restuarant Software package (Part 1 Desktop POS System)
 
-A new Flutter project.
-
-## Getting Started
+## 
 
 This project is a starting point for a Flutter application.
 

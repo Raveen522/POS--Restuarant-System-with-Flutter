@@ -1,14 +1,5 @@
-#Fully fucntional Restuarant Software package (Part 1 Desktop POS System)
+## Fully fucntional Restuarant Software package (Part 1 Desktop POS System)
 
-## 
+This is a part of Fully functional Restuarant System which conatins Desktop POS System, Mobile app, and a app for Waiter.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project only includes the Dekstop POS System.

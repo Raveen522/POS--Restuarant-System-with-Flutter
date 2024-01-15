@@ -4,7 +4,7 @@ import 'package:pos/theme.dart';
 import 'package:window_manager/window_manager.dart';
 import 'package:firedart/firedart.dart';
 
-const apiKey = 'AIzaSyC0qJae3OD9AkZVFAyqVTCJqoQ06DJf-r4';
+const apiKey = '';
 const projectId = 'myrestuarant-c65ae';
 
 void main() async {
